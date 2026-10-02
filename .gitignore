@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.DS_Store
+data/shd/*.h5
+cache/spk_cache_4ms/
+cache/representation_clean/
